@@ -34,9 +34,3 @@ javac AttendanceSystemGUI.java
 ```bash
 java AttendanceSystemGUI
 ```
-
-##  Screenshots (optional)
-_Add screenshots here after running the application._
-
-##  License
-Provided for educational and portfolio use.
