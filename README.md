@@ -1,21 +1,21 @@
 # Student Attendance Management System (Java Swing GUI)
 
-## 📌 Overview
+##  Overview
 A GUI-based Java application to manage student attendance records using **Java Swing** and file-based storage.
 
-## ✨ Features
+##  Features
 - Mark attendance with student name, date, and status (Present/Absent).
 - View all attendance records in a **JTable**.
 - Search attendance by student name.
 - Refresh table to reload all records.
 - Data persistence using a text file (`attendance_records.txt`).
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **Java Swing** for GUI
 - **File I/O** for storage
 - **Event Handling** for interactive features
 
-## 📂 Project Structure
+##  Project Structure
 ```
 Student_Attendance_Management_System_GUI/
 │
@@ -24,7 +24,7 @@ Student_Attendance_Management_System_GUI/
 └── attendance_records.txt      # Data file (auto-created when running the app)
 ```
 
-## 🚀 How to Run
+##  How to Run
 1. Install Java JDK 8 or later.
 2. Compile:
 ```bash
@@ -35,8 +35,8 @@ javac AttendanceSystemGUI.java
 java AttendanceSystemGUI
 ```
 
-## 📷 Screenshots (optional)
+##  Screenshots (optional)
 _Add screenshots here after running the application._
 
-## 📜 License
+##  License
 Provided for educational and portfolio use.
